@@ -1,0 +1,32 @@
+{
+  "xingxiu": {
+    "0": {"name": "角", "description": ""},
+    "1": {"name": "亢", "description": ""},
+    "2": {"name": "氐", "description": ""},
+    "3": {"name": "房", "description": ""},
+    "4": {"name": "心", "description": ""},
+    "5": {"name": "尾", "description": ""},
+    "6": {"name": "箕", "description": ""},
+    "7": {"name": "斗", "description": ""},
+    "8": {"name": "牛", "description": ""},
+    "9": {"name": "女", "description": ""},
+    "10": {"name": "虚", "description": ""},
+    "11": {"name": "危", "description": ""},
+    "12": {"name": "室", "description": ""},
+    "13": {"name": "壁", "description": ""},
+    "14": {"name": "奎", "description": ""},
+    "15": {"name": "娄", "description": ""},
+    "16": {"name": "胃", "description": ""},
+    "17": {"name": "昴", "description": ""},
+    "18": {"name": "毕", "description": ""},
+    "19": {"name": "觜", "description": ""},
+    "20": {"name": "参", "description": ""},
+    "21": {"name": "井", "description": ""},
+    "22": {"name": "鬼", "description": ""},
+    "23": {"name": "柳", "description": ""},
+    "24": {"name": "星", "description": ""},
+    "25": {"name": "张", "description": ""},
+    "26": {"name": "翼", "description": ""},
+    "27": {"name": "轸", "description": ""}
+  }
+}

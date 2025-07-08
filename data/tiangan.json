@@ -1,0 +1,74 @@
+{
+  "gan_data": [
+    {
+      "name": "甲",
+      "index": 0,
+      "wu_xing": "木",
+      "yin_yang": "阳",
+      "temperature": 3
+    },
+    {
+      "name": "乙",
+      "index": 1,
+      "wu_xing": "木",
+      "yin_yang": "阴",
+      "temperature": 1
+    },
+    {
+      "name": "丙",
+      "index": 2,
+      "wu_xing": "火",
+      "yin_yang": "阳",
+      "temperature": 6
+    },
+    {
+      "name": "丁",
+      "index": 3,
+      "wu_xing": "火",
+      "yin_yang": "阴",
+      "temperature": 4
+    },
+    {
+      "name": "戊",
+      "index": 4,
+      "wu_xing": "土",
+      "yin_yang": "阳",
+      "temperature": 5
+    },
+    {
+      "name": "己",
+      "index": 5,
+      "wu_xing": "土",
+      "yin_yang": "阴",
+      "temperature": -4
+    },
+    {
+      "name": "庚",
+      "index": 6,
+      "wu_xing": "金",
+      "yin_yang": "阳",
+      "temperature": -1
+    },
+    {
+      "name": "辛",
+      "index": 7,
+      "wu_xing": "金",
+      "yin_yang": "阴",
+      "temperature": -3
+    },
+    {
+      "name": "壬",
+      "index": 8,
+      "wu_xing": "水",
+      "yin_yang": "阳",
+      "temperature": -5
+    },
+    {
+      "name": "癸",
+      "index": 9,
+      "wu_xing": "水",
+      "yin_yang": "阴",
+      "temperature": -6
+    }
+  ]
+}

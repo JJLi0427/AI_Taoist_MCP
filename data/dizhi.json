@@ -1,0 +1,152 @@
+{
+  "zhi_data": [
+    {
+      "name": "子",
+      "index": 0,
+      "wu_xing": "水",
+      "yin_yang": "阳",
+      "time_range": "23-1",
+      "temperature": -6,
+      "hidden_stems": {
+        "癸": 8
+      }
+    },
+    {
+      "name": "丑",
+      "index": 1,
+      "wu_xing": "土",
+      "yin_yang": "阴",
+      "time_range": "1-3",
+      "temperature": -4,
+      "hidden_stems": {
+        "己": 5,
+        "癸": 2,
+        "辛": 1
+      }
+    },
+    {
+      "name": "寅",
+      "index": 2,
+      "wu_xing": "木",
+      "yin_yang": "阳",
+      "time_range": "3-5",
+      "temperature": 3,
+      "hidden_stems": {
+        "甲": 5,
+        "丙": 2,
+        "戊": 1
+      }
+    },
+    {
+      "name": "卯",
+      "index": 3,
+      "wu_xing": "木",
+      "yin_yang": "阴",
+      "time_range": "5-7",
+      "temperature": 1,
+      "hidden_stems": {
+        "乙": 8
+      }
+    },
+    {
+      "name": "辰",
+      "index": 4,
+      "wu_xing": "土",
+      "yin_yang": "阳",
+      "time_range": "7-9",
+      "temperature": -4,
+      "hidden_stems": {
+        "戊": 5,
+        "乙": 2,
+        "癸": 1
+      }
+    },
+    {
+      "name": "巳",
+      "index": 5,
+      "wu_xing": "火",
+      "yin_yang": "阴",
+      "time_range": "9-11",
+      "temperature": 5,
+      "hidden_stems": {
+        "丙": 5,
+        "戊": 2,
+        "庚": 1
+      }
+    },
+    {
+      "name": "午",
+      "index": 6,
+      "wu_xing": "火",
+      "yin_yang": "阳",
+      "time_range": "11-13",
+      "temperature": 6,
+      "hidden_stems": {
+        "丁": 5,
+        "己": 3
+      }
+    },
+    {
+      "name": "未",
+      "index": 7,
+      "wu_xing": "土",
+      "yin_yang": "阴",
+      "time_range": "13-15",
+      "temperature": 3,
+      "hidden_stems": {
+        "己": 5,
+        "丁": 2,
+        "乙": 1
+      }
+    },
+    {
+      "name": "申",
+      "index": 8,
+      "wu_xing": "金",
+      "yin_yang": "阳",
+      "time_range": "15-17",
+      "temperature": -2,
+      "hidden_stems": {
+        "庚": 5,
+        "壬": 2,
+        "戊": 1
+      }
+    },
+    {
+      "name": "酉",
+      "index": 9,
+      "wu_xing": "金",
+      "yin_yang": "阴",
+      "time_range": "17-19",
+      "temperature": -3,
+      "hidden_stems": {
+        "辛": 8
+      }
+    },
+    {
+      "name": "戌",
+      "index": 10,
+      "wu_xing": "土",
+      "yin_yang": "阳",
+      "time_range": "19-21",
+      "temperature": 4,
+      "hidden_stems": {
+        "戊": 5,
+        "辛": 2,
+        "丁": 1
+      }
+    },
+    {
+      "name": "亥",
+      "index": 11,
+      "wu_xing": "水",
+      "yin_yang": "阴",
+      "time_range": "21-23",
+      "temperature": -5,
+      "hidden_stems": {
+        "壬": 5,
+        "甲": 3
+      }
+    }
+  ]
+}

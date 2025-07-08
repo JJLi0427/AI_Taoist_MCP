@@ -1,0 +1,70 @@
+{
+  "ten_gods": {
+    "比肩": {
+      "description": "同我者，代表兄弟姐妹、同事、朋友",
+      "relationship_type": "同类",
+      "characteristics": ["自立自强", "固执己见", "重视友情", "竞争意识"]
+    },
+    "劫财": {
+      "description": "同我而异性者，代表争夺、损财",
+      "relationship_type": "同类异性",
+      "characteristics": ["争强好胜", "投机冒险", "不服输", "易破财"]
+    },
+    "食神": {
+      "description": "我生者，代表才华、食禄、子女",
+      "relationship_type": "我生",
+      "characteristics": ["才华横溢", "享受生活", "乐观开朗", "有艺术天赋"]
+    },
+    "伤官": {
+      "description": "我生而异性者，代表才华、叛逆",
+      "relationship_type": "我生异性",
+      "characteristics": ["聪明伶俐", "叛逆不羁", "创造力强", "口才好"]
+    },
+    "偏财": {
+      "description": "我克者，代表横财、偏妻",
+      "relationship_type": "我克",
+      "characteristics": ["善于投资", "机会主义", "交际广泛", "不拘小节"]
+    },
+    "正财": {
+      "description": "我克而异性者，代表妻子、财富",
+      "relationship_type": "我克异性",
+      "characteristics": ["勤俭持家", "踏实肯干", "重视金钱", "保守稳重"]
+    },
+    "七杀": {
+      "description": "克我者，代表权威、压力",
+      "relationship_type": "克我",
+      "characteristics": ["有权威性", "果断决绝", "压力大", "易有小人"]
+    },
+    "正官": {
+      "description": "克我而异性者，代表官职、名誉",
+      "relationship_type": "克我异性",
+      "characteristics": ["正直守法", "有责任心", "注重名誉", "保守传统"]
+    },
+    "偏印": {
+      "description": "生我者，代表继母、偏门学问",
+      "relationship_type": "生我",
+      "characteristics": ["思维独特", "学习能力强", "内向孤僻", "有艺术天赋"]
+    },
+    "正印": {
+      "description": "生我而异性者，代表母亲、学问",
+      "relationship_type": "生我异性",
+      "characteristics": ["慈祥仁爱", "学识渊博", "保护欲强", "依赖性强"]
+    }
+  },
+  "wuxing_relationships": {
+    "相生": {
+      "木生火": "木燃烧生火",
+      "火生土": "火烧成灰土",
+      "土生金": "土中藏金",
+      "金生水": "金销为水",
+      "水生木": "水润木长"
+    },
+    "相克": {
+      "木克土": "木根吸土",
+      "土克水": "土能防水",
+      "水克火": "水能灭火",
+      "火克金": "火能熔金",
+      "金克木": "金能断木"
+    }
+  }
+}
